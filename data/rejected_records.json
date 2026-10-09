@@ -1,0 +1,2158 @@
+[
+  {
+    "id": "p_0151",
+    "stage": "truncation",
+    "task": "closed_book_knowledge",
+    "direction": "",
+    "prompt": "ለዚህ ጥያቄ መልስ ስጥ።\n\nContext:\nበዓለም ላይ ትንሹ ሀገር ማናት?",
+    "instruction": "ለዚህ ጥያቄ መልስ ስጥ።",
+    "context": "በዓለም ላይ ትንሹ ሀገር ማናት?",
+    "question": "",
+    "response": "በዓለም ላይ ትንሹ ሀገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አገር አ",
+    "num_generated_tokens": 300,
+    "hit_max_tokens": true,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_aya_amharic"
+  },
+  {
+    "id": "p_0626",
+    "stage": "truncation",
+    "task": "closed_book_knowledge",
+    "direction": "",
+    "prompt": "ለሚከተለው ጥያቄ ምላሽ ስጭ።\n\nContext:\nየመጀመሪያው ፈላስፋ ማን ይባላል?",
+    "instruction": "ለሚከተለው ጥያቄ ምላሽ ስጭ።",
+    "context": "የመጀመሪያው ፈላስፋ ማን ይባላል?",
+    "question": "",
+    "response": "የመጀመሪያው ፈላስፋ ማን እንደሆነ በትክክል ለመናገር አስቸጋሪ ነው። ነገር ግን፣ ግሪክ አብራሪዎቹን ሲመለከት፣ ታላቁ ተራኪና አስተሳሰባዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማዊ አራማ",
+    "num_generated_tokens": 300,
+    "hit_max_tokens": true,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_aya_amharic"
+  },
+  {
+    "id": "p_0717",
+    "stage": "truncation",
+    "task": "closed_book_knowledge",
+    "direction": "",
+    "prompt": "ጥያቄውን መልስ።\n\nContext:\nየመጀመሪያው የስታር ዎርስ ፊልም መቼ ነው የወጣው?",
+    "instruction": "ጥያቄውን መልስ።",
+    "context": "የመጀመሪያው የስታር ዎርስ ፊልም መቼ ነው የወጣው?",
+    "question": "",
+    "response": "የመጀመሪያው የስታር ዎርስ ፊልም በታላቁ የትራጀዲ ዓለም ላይ የተመሰረተ ሲሆን በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ የወጣው በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ በታላቁ የፊልም ዓለም ላይ",
+    "num_generated_tokens": 300,
+    "hit_max_tokens": true,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_aya_amharic"
+  },
+  {
+    "id": "p_0205",
+    "stage": "truncation",
+    "task": "closed_book_knowledge",
+    "direction": "",
+    "prompt": "በአጭሩ ለሚከተለው ጥያቄ ምላሽ ስጥ።\n\nContext:\nክሌቭላንድ ኦሃዮ የሰዓት ዞን ምንድን ይባላል?",
+    "instruction": "በአጭሩ ለሚከተለው ጥያቄ ምላሽ ስጥ።",
+    "context": "ክሌቭላንድ ኦሃዮ የሰዓት ዞን ምንድን ይባላል?",
+    "question": "",
+    "response": "ክሌቭላንድ ኦሃዮ የሚገኘው በሰሜን አሜሪካ ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰሜን ሰ",
+    "num_generated_tokens": 300,
+    "hit_max_tokens": true,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_aya_amharic"
+  },
+  {
+    "id": "p_0605",
+    "stage": "truncation",
+    "task": "closed_book_knowledge",
+    "direction": "",
+    "prompt": "ለሚከተለው ጥያቄ መልስ ስጥ።\n\nContext:\nለአንድ ሰዓት ያህል መዝናናት የምችልባቸውን 5 መንገዶች ስጠኝ",
+    "instruction": "ለሚከተለው ጥያቄ መልስ ስጥ።",
+    "context": "ለአንድ ሰዓት ያህል መዝናናት የምችልባቸውን 5 መንገዶች ስጠኝ",
+    "question": "",
+    "response": "አንድ ሰዓት ለመዝናናት የሚችሉበት ብዙ መንገዶች አሉ። አንደኛ፣ የሚወዱትን ሙዚቃ ወይም ድራማ ማየት ይችላሉ። ሁለተኛ፣ አጭር የልቦለድ ታሪክ ማንበብ ወይም ማዳመጥ ይችላሉ። ሶስተኛ፣ ለአንድ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰልጣኝ አሰል",
+    "num_generated_tokens": 300,
+    "hit_max_tokens": true,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_aya_amharic"
+  },
+  {
+    "id": "p_1498",
+    "stage": "truncation",
+    "task": "translation",
+    "direction": "en->am",
+    "prompt": "ይህንን ዓረፍተ ነገር ወደ አማርኛ ለውጥ።\n\nContext:\nThe research entitled Indigenous Naming Systems and Cultural Implications in Wag Hemra Zone, Ziquala Woreda serves as a scholarly exploration into the profound intersection of onomastics, sociolinguistics, and cultural anthropology. It investigates how the Hemtawa language and the local societal fabric of the Ziquala Woreda preserve ancestral wisdom through the naming of individuals. The study posits that names are not mere identifiers but are repositories of historical memory, social philosophy, and identity, functioning as vital instruments for the continuity of the Hemra people's cultural heritage.\n\nThe report commences by contextualizing the significance of indigenous naming practices within the broader framework of Ethiopian cultural studies. It establishes the theoretical foundation by examining how linguistic structures and community values converge to shape the naming process. Through a robust methodological approach, the study documents the systematic collection of data from community elders, cultural custodians, and religious leaders. It demonstrates how these qualitative insights are synthesized through thematic and content analysis to reveal the deep-seated psychological and social significances embedded within traditional names.\n\nThe core of the analysis delves into the multifaceted roles that names play in the lives of the Ziquala community. It elucidates how names serve as tools for genealogical preservation, the articulation of future aspirations, and the mediation of social conflicts. The study highlights the intricate ways in which names act as linguistic markers of environmental connection and historical events, thereby reinforcing the communal bond. It further examines the ongoing tension between these traditional paradigms and the encroaching influence of globalization and foreign linguistic trends, providing a critical assessment of the potential erosion of such cultural legacies.\n\nIn its concluding sections, the work transitions from descriptive analysis to prescriptive policy recommendations. It underscores the urgency of integrating indigenous knowledge systems into the local educational curriculum and administrative documentation processes. By advocating for the preservation of the Hemtawa naming tradition, the study provides a framework for cultural revitalization. It concludes by emphasizing that the protection of these linguistic and cultural assets is essential for maintaining the distinct identity of the Wag Hemra people, ultimately proposing that the findings serve as a foundational resource for future ethnographic research and regional development strategies aimed at fostering cultural sustainability. ይህን ጽሁፍ ያለ ምንም የሰዋስወ ስህተት በተክክል ወደ አማርኛ ተርጉም?",
+    "instruction": "ይህንን ዓረፍተ ነገር ወደ አማርኛ ለውጥ።",
+    "context": "The research entitled Indigenous Naming Systems and Cultural Implications in Wag Hemra Zone, Ziquala Woreda serves as a scholarly exploration into the profound intersection of onomastics, sociolinguistics, and cultural anthropology. It investigates how the Hemtawa language and the local societal fabric of the Ziquala Woreda preserve ancestral wisdom through the naming of individuals. The study posits that names are not mere identifiers but are repositories of historical memory, social philosophy, and identity, functioning as vital instruments for the continuity of the Hemra people's cultural heritage.\n\nThe report commences by contextualizing the significance of indigenous naming practices within the broader framework of Ethiopian cultural studies. It establishes the theoretical foundation by examining how linguistic structures and community values converge to shape the naming process. Through a robust methodological approach, the study documents the systematic collection of data from community elders, cultural custodians, and religious leaders. It demonstrates how these qualitative insights are synthesized through thematic and content analysis to reveal the deep-seated psychological and social significances embedded within traditional names.\n\nThe core of the analysis delves into the multifaceted roles that names play in the lives of the Ziquala community. It elucidates how names serve as tools for genealogical preservation, the articulation of future aspirations, and the mediation of social conflicts. The study highlights the intricate ways in which names act as linguistic markers of environmental connection and historical events, thereby reinforcing the communal bond. It further examines the ongoing tension between these traditional paradigms and the encroaching influence of globalization and foreign linguistic trends, providing a critical assessment of the potential erosion of such cultural legacies.\n\nIn its concluding sections, the work transitions from descriptive analysis to prescriptive policy recommendations. It underscores the urgency of integrating indigenous knowledge systems into the local educational curriculum and administrative documentation processes. By advocating for the preservation of the Hemtawa naming tradition, the study provides a framework for cultural revitalization. It concludes by emphasizing that the protection of these linguistic and cultural assets is essential for maintaining the distinct identity of the Wag Hemra people, ultimately proposing that the findings serve as a foundational resource for future ethnographic research and regional development strategies aimed at fostering cultural sustainability. ይህን ጽሁፍ ያለ ምንም የሰዋስወ ስህተት በተክክል ወደ አማርኛ ተርጉም?",
+    "question": "",
+    "response": "የሚሰጠው ጥናት፣ \"የአርሰላዊ ስያሜ ሥርዓቶች እና ባህላዊ አንድማማነት በዋግ ህምራማማ አካባቢ፣ ዝቁላ ወረዳ\" የሚል ስያሜ ያለው፣ ኦኖማስቲክስን፣ ማህበራዊ ንግግርን እና የባህላዊ አንትሮፖሎጂን ጥልቅ መገናኛ በስነ-ጥናት መንፈስ የሚመረምር ነው። ይህ ጥናት የህምታዋን ቋንቋ እና የዝቁላ ወረዳን የአካባቢ ማህበራዊ አወቃቀር ግለሰቦችን ስያሜ በሚሰጣቸውበት መንገድ የአባቶቻ",
+    "num_generated_tokens": 150,
+    "hit_max_tokens": true,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_addisgpt"
+  },
+  {
+    "id": "p_0760",
+    "stage": "language",
+    "task": "instruction_following",
+    "direction": "",
+    "prompt": "የተሰጠውን ጥያቄ ከዚህ በታች በተሰጠው አውድ መሰረት መልሱ፡\n\nContext:\nቺኑዋ አቼቤ በሙሉ ስሙ ሲጠራ አልበርት ቺኑዋሉሞጉ አቼቤ ይሰኛል። ምናልባትም ናይጄሪያ ካሉዋት ምርጥ ፀሃፍት ዝርዝር ውስጥ በአንደኛ ደረጃ የሚሰለፍ ሳይሆን አይቀርም። በ1930 እ.ኤ.አ. ኦጊዲ በተባለች የናይጄሪያ ግዛት ከአዜያህ ኦካፎ እና ከጃኔት አቼቤ ተወለድ። በ1953 እ.ኤ.አ. ከለንደን ዩኒቨርስቲ የመጀመሪያ ዲግሪውን አግኝቷል። ለአቼቤ ድንቅ ሥራ የተባለለት \"Things Fall Apart\" 50 ወደሚሆኑ የአለም ቁዋንቁዋዎች የተተርጎመ ሲሆን ወደ 10,000,000 ቅጂዎች እንደተሸጡለት ይነገራል። አቼቤ ከአፍሪካ ፀሃፍት ሁሉ ሥራው በበዙ ቁዋንቁዋዎች በመተርጎም ክብረ ወሰኑን እንደያዘ ነው። ብዙዎችም ይኸው ድርሰቱ በአለም እስከዛሬ ከተደረሱ ምርጥ ልበ-ወለዶች መካከል እንደሆነ ይስማማሉ። አቼቤ ከ30 ከሚበልጡ ዩኒበርስቲዎች የክብር ዶክትሬት የተቀበለ ሲሆን ብዙ ሽልማቶችንም ከተለያዩ ድርጅቶች አግኝቷል። ይሁንና እስከ አሁን ድረስ የኖቤል ሽልማት ለማግኘት አልታደለም። ይኸውም በብዙው ጽሁፉ የመራቡን አለም ዘረኛነት የሚተች በመሆኑ እንደሆነ ይነገራል። በ1990 ዓ.ም በደረሰበት የመኪና አደጋ ምክንያት ከወገቡ በታች መንቀሳቀስ የተሳነው ሲሆን ኒው ዮርክ ውስጥ በሚገኘው የባርድ ኮሌጅ የቋንቋና ሥነ-ፅሁፍ ፕሮፌሰር ሆኖ በማገልገል ላይ ይገኛል።\n\nQuestion:\nለአቼቤ 50 ወደሚሆኑ የአለም ቋንቋ የተተርጎመ እና 10,000,000 ቅጂዎች የተሸጡለት ድንቅ የስነፅሑፍ ስራው ምን በመባል ይታወቃል?",
+    "instruction": "የተሰጠውን ጥያቄ ከዚህ በታች በተሰጠው አውድ መሰረት መልሱ፡",
+    "context": "ቺኑዋ አቼቤ በሙሉ ስሙ ሲጠራ አልበርት ቺኑዋሉሞጉ አቼቤ ይሰኛል። ምናልባትም ናይጄሪያ ካሉዋት ምርጥ ፀሃፍት ዝርዝር ውስጥ በአንደኛ ደረጃ የሚሰለፍ ሳይሆን አይቀርም። በ1930 እ.ኤ.አ. ኦጊዲ በተባለች የናይጄሪያ ግዛት ከአዜያህ ኦካፎ እና ከጃኔት አቼቤ ተወለድ። በ1953 እ.ኤ.አ. ከለንደን ዩኒቨርስቲ የመጀመሪያ ዲግሪውን አግኝቷል። ለአቼቤ ድንቅ ሥራ የተባለለት \"Things Fall Apart\" 50 ወደሚሆኑ የአለም ቁዋንቁዋዎች የተተርጎመ ሲሆን ወደ 10,000,000 ቅጂዎች እንደተሸጡለት ይነገራል። አቼቤ ከአፍሪካ ፀሃፍት ሁሉ ሥራው በበዙ ቁዋንቁዋዎች በመተርጎም ክብረ ወሰኑን እንደያዘ ነው። ብዙዎችም ይኸው ድርሰቱ በአለም እስከዛሬ ከተደረሱ ምርጥ ልበ-ወለዶች መካከል እንደሆነ ይስማማሉ። አቼቤ ከ30 ከሚበልጡ ዩኒበርስቲዎች የክብር ዶክትሬት የተቀበለ ሲሆን ብዙ ሽልማቶችንም ከተለያዩ ድርጅቶች አግኝቷል። ይሁንና እስከ አሁን ድረስ የኖቤል ሽልማት ለማግኘት አልታደለም። ይኸውም በብዙው ጽሁፉ የመራቡን አለም ዘረኛነት የሚተች በመሆኑ እንደሆነ ይነገራል። በ1990 ዓ.ም በደረሰበት የመኪና አደጋ ምክንያት ከወገቡ በታች መንቀሳቀስ የተሳነው ሲሆን ኒው ዮርክ ውስጥ በሚገኘው የባርድ ኮሌጅ የቋንቋና ሥነ-ፅሁፍ ፕሮፌሰር ሆኖ በማገልገል ላይ ይገኛል።",
+    "question": "ለአቼቤ 50 ወደሚሆኑ የአለም ቋንቋ የተተርጎመ እና 10,000,000 ቅጂዎች የተሸጡለት ድንቅ የስነፅሑፍ ስራው ምን በመባል ይታወቃል?",
+    "response": "ድንቅ ሥራ የተባለው \"Things Fall Apart\" ይባላል።<turn|>",
+    "num_generated_tokens": 16,
+    "hit_max_tokens": false,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_amharic_qa",
+    "geez_ratio": 0.42424242424242425
+  },
+  {
+    "id": "p_1370",
+    "stage": "language",
+    "task": "instruction_following",
+    "direction": "",
+    "prompt": "ከዚህ በታች ያለውን ጽሑፍ በማጣቀስ እባክዎን ለሚከተለው መልስ ይስጡ\n\nContext:\nማርክ ትዌይን ሳሙኤል ላንግሆርን ክሌመንስ ወይም በብእር ስሙ ማርክ ትዌይን አሜሪካ ካፈራቻቸው ድንቅ ጸሃፍት መካካል የሚመደብ ደራሲ ነው። ትዌይን በኖቬምበር 1835 ዓ.ም. ሚዙሪ በተባለችው የአሜሪካ ግዛት ተወለደ። 18 ዓመት እስኪሞላው ድረስ ከቤተሰቦቹ ጋር የኖረው ሃኒባል በተባለች እና ሚሲሲፒ ላይ በተቆረቆረች ትንሽ ከተማ-አከል ቦታ ነው። አባቱ በ1847 ሲሞት ትዌይን ትምህርቱን በማቋረጥ በማተሚያ ቤት ውስጥ በሰልጣኝነት ተቀጠረ። ይህን ስራውን በ1857 በመተው የእንፋሎት ጀልባ ነጂ በመሆን መስራት ጀመረ። በዚሁ ስራ በቆየባቸው አመታት ነው ኋላ ላይ አድናቆትን ላተረፉለት የስነ-ጽሁፍ ስራዎቹ የሚሆኑትን እውቀቶች ለማሰባሰብ የበቃው። እሱ ራሱም እንዳለው በዚሁ ስራ ላይ ነው \"ማንኛውንም በልብ-ወለድ፣ በግለ-ታሪክም ሆነ በታሪክ ላይ ሊገኙ የሚችሉ የሰው ባህርያትን\" ሊያጠና የበቃው። በ1861 እ.ኤ.አ. የአሜሪካ የእርስ-በርስ ጦርነት በመቀስቀሱ ምክንያት ማንኛውም አይነት የመርከብ ላይ ጉዞ ሲስተጓጎል ትዌይንም ስራውን ለመልቀቅ ተገዷል። ከዚህ በኋላም በውትድርና ወዶ-ገብነት፣ በወርቅ ማእድን ፈላጊነት፣ በጋዜጠኝነት ወዘተ ስረቷል። በ1869 ዓ.ም የመጀመሪያ ዋነኛ ስራው የሆነውን \"The Innocents Abroad\" ለማሳተም በቃ። ይኽ ድርሰት ክሌመንስ ራሱ በአውሮፓ እና በእየሩሳሌም ባካሄዳቸው ጉብኝቶች ላይ የተመሰረተ ነው። በ1870 ዓ.ም ኦሊቭያ ላንግዶንን በማግባት ኑሮውን ኮኔቲከት በተባለችው ግዛት አድርጓ በዛው ለ17 ዓመታት ኖሯል። በነዚህ 17 ዓመታት ነው አድናቆት ያተረፉለት ስራዎቹን ማለትም \"Roughing It\"፣ \"The Adventures of Tom Sawyer\"፣ Life on the Mississippi\"፣ እና ከሁኡ የላቀ የተባለለት ድርሰቱን \"The Adventures of Huckleberry Finn\"ን ያሳተመው። ትዌይን በ1910 ዓ.ም አርፎ ሬዲንግ፣ ኮኔቲከት ውስጥ በድኑ አርፏል።\n\nQuestion:\nማርክ ትዌይን ሳሙኤል ላንግሆርን ክሌመንስ ብዙ አድናቆትን ያገኙ ድርሰቶችን ጽፏል ይበልጥ አድናቆትን ያገኘለት የመጽሀፍ ርዕስ ምን ይባላል?",
+    "instruction": "ከዚህ በታች ያለውን ጽሑፍ በማጣቀስ እባክዎን ለሚከተለው መልስ ይስጡ",
+    "context": "ማርክ ትዌይን ሳሙኤል ላንግሆርን ክሌመንስ ወይም በብእር ስሙ ማርክ ትዌይን አሜሪካ ካፈራቻቸው ድንቅ ጸሃፍት መካካል የሚመደብ ደራሲ ነው። ትዌይን በኖቬምበር 1835 ዓ.ም. ሚዙሪ በተባለችው የአሜሪካ ግዛት ተወለደ። 18 ዓመት እስኪሞላው ድረስ ከቤተሰቦቹ ጋር የኖረው ሃኒባል በተባለች እና ሚሲሲፒ ላይ በተቆረቆረች ትንሽ ከተማ-አከል ቦታ ነው። አባቱ በ1847 ሲሞት ትዌይን ትምህርቱን በማቋረጥ በማተሚያ ቤት ውስጥ በሰልጣኝነት ተቀጠረ። ይህን ስራውን በ1857 በመተው የእንፋሎት ጀልባ ነጂ በመሆን መስራት ጀመረ። በዚሁ ስራ በቆየባቸው አመታት ነው ኋላ ላይ አድናቆትን ላተረፉለት የስነ-ጽሁፍ ስራዎቹ የሚሆኑትን እውቀቶች ለማሰባሰብ የበቃው። እሱ ራሱም እንዳለው በዚሁ ስራ ላይ ነው \"ማንኛውንም በልብ-ወለድ፣ በግለ-ታሪክም ሆነ በታሪክ ላይ ሊገኙ የሚችሉ የሰው ባህርያትን\" ሊያጠና የበቃው። በ1861 እ.ኤ.አ. የአሜሪካ የእርስ-በርስ ጦርነት በመቀስቀሱ ምክንያት ማንኛውም አይነት የመርከብ ላይ ጉዞ ሲስተጓጎል ትዌይንም ስራውን ለመልቀቅ ተገዷል። ከዚህ በኋላም በውትድርና ወዶ-ገብነት፣ በወርቅ ማእድን ፈላጊነት፣ በጋዜጠኝነት ወዘተ ስረቷል። በ1869 ዓ.ም የመጀመሪያ ዋነኛ ስራው የሆነውን \"The Innocents Abroad\" ለማሳተም በቃ። ይኽ ድርሰት ክሌመንስ ራሱ በአውሮፓ እና በእየሩሳሌም ባካሄዳቸው ጉብኝቶች ላይ የተመሰረተ ነው። በ1870 ዓ.ም ኦሊቭያ ላንግዶንን በማግባት ኑሮውን ኮኔቲከት በተባለችው ግዛት አድርጓ በዛው ለ17 ዓመታት ኖሯል። በነዚህ 17 ዓመታት ነው አድናቆት ያተረፉለት ስራዎቹን ማለትም \"Roughing It\"፣ \"The Adventures of Tom Sawyer\"፣ Life on the Mississippi\"፣ እና ከሁኡ የላቀ የተባለለት ድርሰቱን \"The Adventures of Huckleberry Finn\"ን ያሳተመው። ትዌይን በ1910 ዓ.ም አርፎ ሬዲንግ፣ ኮኔቲከት ውስጥ በድኑ አርፏል።",
+    "question": "ማርክ ትዌይን ሳሙኤል ላንግሆርን ክሌመንስ ብዙ አድናቆትን ያገኙ ድርሰቶችን ጽፏል ይበልጥ አድናቆትን ያገኘለት የመጽሀፍ ርዕስ ምን ይባላል?",
+    "response": "ከሁሉ የላቀ የተባለው ድርሰቱ \"The Adventures of Huckleberry Finn\" ይባላል።<turn|>",
+    "num_generated_tokens": 27,
+    "hit_max_tokens": false,
+    "eos_produced": false,
+    "teacher_id": "google/gemma-4-E4B-it",
+    "source": "hf_amharic_qa",
+    "geez_ratio": 0.3584905660377358
+  },
+  {
+    "id": "p_1327",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1472",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0765",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0961",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0885",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1409",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1356",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1079",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0999",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1109",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1199",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1289",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0658",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1036",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0949",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1336",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0982",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0977",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1153",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0806",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0816",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0810",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1146",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0832",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1387",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1071",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1482",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0953",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1162",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1225",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1092",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0808",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1273",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1086",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0860",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0732",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1044",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0838",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0854",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0787",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1252",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1493",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1251",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0788",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0913",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1450",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1314",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1095",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0769",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1277",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1361",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1468",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1090",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1280",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1291",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0927",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1154",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0938",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1404",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1069",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1398",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1379",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1127",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0740",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0839",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1378",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0804",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1382",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1103",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0775",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0994",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0909",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0750",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0800",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1203",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0790",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1448",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1195",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1491",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0940",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0932",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0983",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1048",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1443",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1330",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1014",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1200",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1176",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0996",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0743",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1009",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0946",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1131",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1032",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0851",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0934",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0379",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1328",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1300",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1436",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0857",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0844",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0978",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1245",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0959",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0841",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1205",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1255",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1246",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1309",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1434",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1453",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1237",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1192",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1166",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1155",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1043",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1049",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0853",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1233",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1355",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0784",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0858",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1052",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1027",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1191",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0970",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1457",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1156",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1247",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0815",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0020",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0945",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0773",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0807",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1397",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0991",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0252",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1028",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0919",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1295",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1353",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1485",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0917",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0745",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0803",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1024",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1020",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1171",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1346",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1031",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1390",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1012",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1170",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1479",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1401",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1476",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1000",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0990",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1158",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0792",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0876",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1096",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0772",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1033",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1319",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0963",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0783",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1249",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1140",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1459",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0834",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1102",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1084",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1183",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1232",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1490",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1445",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0768",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1384",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1198",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1197",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0989",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0993",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0759",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0837",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1088",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0933",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0840",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1163",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0493",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0779",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1376",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1081",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1271",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1464",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1270",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1403",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1441",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1262",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0877",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0795",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0952",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0819",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1110",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1132",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1138",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1035",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0988",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1473",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1196",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0513",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1350",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1226",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1471",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1480",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0789",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1344",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0912",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0260",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1272",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1173",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1240",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1451",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0928",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1357",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1358",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1184",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1394",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0761",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0955",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1034",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0131",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1446",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0416",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1147",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1060",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0944",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1264",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0920",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1424",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0962",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1299",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0648",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0890",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1442",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1329",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0805",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1148",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0809",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1369",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0864",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1061",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0861",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0827",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1244",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0373",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1230",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1371",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1368",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0434",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1385",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1413",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0904",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1455",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1298",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1218",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1063",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1405",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0896",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0849",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1238",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1194",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0433",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1269",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1025",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1286",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1326",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1337",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0971",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0915",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1334",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0764",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0886",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0879",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1037",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0763",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1395",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1283",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1449",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1210",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0744",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1439",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0869",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1322",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0782",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1452",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1444",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1279",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1212",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1123",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1167",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1039",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1112",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1055",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0873",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0941",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0747",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1477",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0881",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0969",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1435",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1437",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0812",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0170",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0387",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1062",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1256",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1366",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1265",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1030",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1177",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1064",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1349",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1011",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1015",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0997",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0054",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0921",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1017",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1274",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1209",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1187",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1136",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1393",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1117",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0947",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0751",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0966",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1360",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1058",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0942",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1470",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0333",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0035",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1374",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0875",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1407",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1179",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0755",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1258",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1189",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1317",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1303",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1281",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1139",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1143",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0865",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0882",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1216",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1320",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1023",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1089",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1260",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1290",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1454",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0957",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1091",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1461",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1053",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1243",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1213",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0995",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1099",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1141",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1104",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0911",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1297",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1412",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0824",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1087",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0742",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0785",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0835",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0964",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0831",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1041",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1077",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0926",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1400",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0544",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0791",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1236",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1107",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0753",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1180",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1118",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0862",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1135",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0771",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1341",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1113",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1188",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0280",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1301",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0084",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0758",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0848",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0821",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0939",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1003",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0833",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1263",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0871",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1438",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1253",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1421",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1204",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1396",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1278",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1321",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0736",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1316",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1073",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0820",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1007",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1267",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1054",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1190",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1013",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1122",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1202",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0950",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0813",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0905",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0906",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0794",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1324",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1359",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0889",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0980",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1351",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1056",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0899",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0321",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1223",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0981",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0780",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1119",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1057",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0826",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0855",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0931",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0943",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0111",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0979",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0918",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1045",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1172",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1414",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0878",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0998",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1124",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0985",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1402",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1311",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0965",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1239",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1431",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1207",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1313",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1348",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0967",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_0050",
+    "stage": "near_dup"
+  },
+  {
+    "id": "p_1345",
+    "stage": "eval_overlap",
+    "record_id": "p_1345",
+    "task": "instruction_following",
+    "candidate_content": "ኢትዮጵያ በመሰረታዊ የጤና አገልግሎት ተደራሽነት ላይ ላስመዘገበችው ውጤት ሩዋንዳ በተዘጋጀው የአፍሪካ የጤና ኮንፍራስ ላይ እውቅናን አግኝታለች :: በሀገር አቀፍ ደረጃ ሞዴል የጤና ኤክስቴንሽን ባለሞያ የሆነችው ወ/ሮ ሰናይት 40,000 ",
+    "matched_eval_id": "E18",
+    "matched_eval_content": "ኢትዮጵያ በመሰረታዊ የጤና አገልግሎት ተደራሽነት ላይ ላስመዘገበችው ውጤት ሩዋንዳ በተዘጋጀው የአፍሪካ የጤና ኮንፍራስ ላይ እውቅናን አግኝታለች :: በሀገር አቀፍ ደረጃ ሞዴል የጤና ኤክስቴንሽን ባለሞያ የሆነችው ወ/ሮ ሰናይት 40,000 ",
+    "similarity": 0.6037735849056604
+  },
+  {
+    "id": "p_0948",
+    "stage": "eval_overlap",
+    "record_id": "p_0948",
+    "task": "instruction_following",
+    "candidate_content": "አንድ ወጣት ተማሪ ከወዳደቁ ቁሳቁሶች በውሃ ላይ የሚነዳ የብስክሌት ጀልባ መስራቱ ተገለጸ፡፡ ጌታባለው መኩሪያው የተባለው ወጣት በባህርዳር ዩኒቨርስቲ 3ኛ ዓመት የሜካኒካል ኢንጅነሪንግ ተማሪ ሲሆን ወጣቱ የወዳደቁ ፒፒሲ ትቦዎች፣ የላሜራ ",
+    "matched_eval_id": "E24",
+    "matched_eval_content": "አንድ ወጣት ተማሪ ከወዳደቁ ቁሳቁሶች በውሃ ላይ የሚነዳ የብስክሌት ጀልባ መስራቱ ተገለጸ፡፡ ጌታባለው መኩሪያው የተባለው ወጣት በባህርዳር ዩኒቨርስቲ 3ኛ ዓመት የሜካኒካል ኢንጅነሪንግ ተማሪ ሲሆን ወጣቱ የወዳደቁ ፒፒሲ ትቦዎች፣ የላሜራ ",
+    "similarity": 1.0
+  },
+  {
+    "id": "p_0975",
+    "stage": "eval_overlap",
+    "record_id": "p_0975",
+    "task": "instruction_following",
+    "candidate_content": "ጁፒተር እና ሳተርን ጁፒተር እና ሳተርን ከ4 መቶ አመት በሆላ ትላንት ምሽት በአንድ ላይ ገጥመው አንድ ፕላኔት መስለው ታይተዋል፡፡ ፕላኔቶቹ ከቀን ቀን እየተቀራረቡ መጥተው ትላንት ምሽት በአንድ ላይ በመግጠም ደማቅ ብርሃን ፈንጥቀዋል፡፡",
+    "matched_eval_id": "E23",
+    "matched_eval_content": "ጁፒተር እና ሳተርን ጁፒተር እና ሳተርን ከ4 መቶ አመት በሆላ ትላንት ምሽት በአንድ ላይ ገጥመው አንድ ፕላኔት መስለው ታይተዋል፡፡ ፕላኔቶቹ ከቀን ቀን እየተቀራረቡ መጥተው ትላንት ምሽት በአንድ ላይ በመግጠም ደማቅ ብርሃን ፈንጥቀዋል፡፡",
+    "similarity": 0.8089887640449438
+  },
+  {
+    "id": "p_1098",
+    "stage": "eval_overlap",
+    "record_id": "p_1098",
+    "task": "instruction_following",
+    "candidate_content": "ግሥላ ግሥላ በእስያ፣ በአፍሪካ (ከነኢትዮጵያ) እና በመካከለኛው ምሥራቅ የሚገኝ አጥቢ አውሬ ነው። በእስያ የተገኘው ነብር የግስላ ቅርብ ዘመድ ሆኖ፣ በአነጋገር «ግስላ»ና «ነብር» የሚሉ ስሞች ሊለዋወጡ ይችላሉ። የአንድ ጎልማሳ ግሥላ ክ",
+    "matched_eval_id": "E30",
+    "matched_eval_content": "ግሥላ ግሥላ በእስያ፣ በአፍሪካ (ከነኢትዮጵያ) እና በመካከለኛው ምሥራቅ የሚገኝ አጥቢ አውሬ ነው። በእስያ የተገኘው ነብር የግስላ ቅርብ ዘመድ ሆኖ፣ በአነጋገር «ግስላ»ና «ነብር» የሚሉ ስሞች ሊለዋወጡ ይችላሉ። የአንድ ጎልማሳ ግሥላ ክ",
+    "similarity": 0.8686868686868687
+  },
+  {
+    "id": "p_1128",
+    "stage": "eval_overlap",
+    "record_id": "p_1128",
+    "task": "instruction_following",
+    "candidate_content": "በውሃ ላይ የሚሰራ የኤሌክትሪክ ብስክሌት በገበያ ላይ መዋሉ ተነገረ። ማንታ 5 የተባለው የኒውዝላንድ ኩባንያ ኤክስ ኢ 1 የተሰኘችውን እና በውሃ ላይ የምትሰራውን የኤሌክትሪክ ብስክሌት በላስ ቬጋስ አስተዋውቋል። ብስክሌቱ በፔዳል የሚሰራ ",
+    "matched_eval_id": "E25",
+    "matched_eval_content": "በውሃ ላይ የሚሰራ የኤሌክትሪክ ብስክሌት በገበያ ላይ መዋሉ ተነገረ። ማንታ 5 የተባለው የኒውዝላንድ ኩባንያ ኤክስ ኢ 1 የተሰኘችውን እና በውሃ ላይ የምትሰራውን የኤሌክትሪክ ብስክሌት በላስ ቬጋስ አስተዋውቋል። ብስክሌቱ በፔዳል የሚሰራ ",
+    "similarity": 0.7857142857142857
+  },
+  {
+    "id": "p_0766",
+    "stage": "eval_overlap",
+    "record_id": "p_0766",
+    "task": "instruction_following",
+    "candidate_content": "ዓረብኛ ዓረብኛ የሴማዊ ቋንቋዎች ቤተሠብ አባል ሆኖ የዕብራይስጥ የአረማያ እንዲሁም የአማርኛ ቅርብ ዘመድ ነው። ፪፻፶ (250) ሚሊዮን የሚያሕሉ ሰዎች እንደ እናት ቋንቋ ይናገሩታል። ከዚህም በላይ በጣም ብዙ ሰዎች እንደ ፪ኛ ቋንቋ ተምረ",
+    "matched_eval_id": "E29",
+    "matched_eval_content": "ዓረብኛ ዓረብኛ የሴማዊ ቋንቋዎች ቤተሠብ አባል ሆኖ የዕብራይስጥ የአረማያ እንዲሁም የአማርኛ ቅርብ ዘመድ ነው። ፪፻፶ (250) ሚሊዮን የሚያሕሉ ሰዎች እንደ እናት ቋንቋ ይናገሩታል። ከዚህም በላይ በጣም ብዙ ሰዎች እንደ ፪ኛ ቋንቋ ተምረ",
+    "similarity": 0.85
+  },
+  {
+    "id": "p_1160",
+    "stage": "eval_overlap",
+    "record_id": "p_1160",
+    "task": "instruction_following",
+    "candidate_content": "በሊትር እስከ 40 ኪሎ ሜትር መጓዝ የምትችል ተሸከርካሪ በኢትዮጵያዊ ወጣት መሰራቱን የኢኖቬሽንና ቴክኖሎጂ ሚኒስቴር ገለጸ፡፡ በወላይታ ዞን አረካ ከተማ ነዋሪ የሆነው ታዳጊ አጃዬ ማጆር ተሸከርካሪዋን ከወዳደቁ ብረቶች እንደሰራት ተነግሯል",
+    "matched_eval_id": "E16",
+    "matched_eval_content": "በሊትር እስከ 40 ኪሎ ሜትር መጓዝ የምትችል ተሸከርካሪ በኢትዮጵያዊ ወጣት መሰራቱን የኢኖቬሽንና ቴክኖሎጂ ሚኒስቴር ገለጸ፡፡ በወላይታ ዞን አረካ ከተማ ነዋሪ የሆነው ታዳጊ አጃዬ ማጆር ተሸከርካሪዋን ከወዳደቁ ብረቶች እንደሰራት ተነግሯል",
+    "similarity": 1.0
+  },
+  {
+    "id": "p_0935",
+    "stage": "eval_overlap",
+    "record_id": "p_0935",
+    "task": "instruction_following",
+    "candidate_content": "ጎግል የተወሰኑ ደንበኞችን የግል ተንቀሳቃሽ ምስል በስህተት ለሌሎች በማጋራቱ ይቅርታ ጠይቋል። ችግሩ ደንበኞች የግል ገፃቸውን ለመለየት የሚስችለውን ምስል ለመጫን በሚያስችለው ክፍል ላይ የተፈጠረ መሆኑ መሆኑን ኩባንያው አስታውቋል። ስህተ",
+    "matched_eval_id": "E21",
+    "matched_eval_content": "ጎግል የተወሰኑ ደንበኞችን የግል ተንቀሳቃሽ ምስል  በስህተት ለሌሎች በማጋራቱ ይቅርታ ጠይቋል። ችግሩ ደንበኞች የግል ገፃቸውን ለመለየት የሚስችለውን ምስል  ለመጫን በሚያስችለው ክፍል ላይ የተፈጠረ መሆኑ መሆኑን ኩባንያው አስታውቋል። ስ",
+    "similarity": 0.8448275862068966
+  },
+  {
+    "id": "p_1323",
+    "stage": "eval_overlap",
+    "record_id": "p_1323",
+    "task": "instruction_following",
+    "candidate_content": "አዲስ አበባ፣ ታህሳስ 15፣ 2012(ኤፍቢሲ) ኡበር የተሰኘው የታክሲ አገልግሎት ሰጭ ድርጅት ተባባሪ መስራች ትራቪስ ካላኒክ በዓመቱ መጨረሻ ከቦርድ አባልነታቸው ሊለቁ መሆኑን አስታውቀዋል ፡፡ ይሁን እንጂ የ43 ዓመቱ ትራቪስ በድርጅቱ ው",
+    "matched_eval_id": "E17",
+    "matched_eval_content": "አዲስ አበባ፣ ታህሳስ 15፣ 2012(ኤፍቢሲ) ኡበር የተሰኘው የታክሲ አገልግሎት ሰጭ ድርጅት ተባባሪ መስራች ትራቪስ ካላኒክ በዓመቱ መጨረሻ ከቦርድ  አባልነታቸው ሊለቁ መሆኑን አስታውቀዋል ፡፡ ይሁን እንጂ የ43 ዓመቱ ትራቪስ በድርጅቱ ",
+    "similarity": 0.7586206896551724
+  },
+  {
+    "id": "p_0830",
+    "stage": "eval_overlap",
+    "record_id": "p_0830",
+    "task": "instruction_following",
+    "candidate_content": "አረማይክ አረማይክ ወይም አራማይስጥ፣ የሶርያ ቋንቋ ከሴማዊ ቋንቋዎች አንዱ ሲሆን በመካከለኛ ምሥራቅ ከጥንት ጀምሮ ታውቋል። መጀመርያ የአረማይክ ጽሑፎች ከ1000 ዓክልበ. ግድም በፊንቄ አልፋቤት ነበሩ፤ ይህም የአራም ሕዝብ የተናገሩት ጥ",
+    "matched_eval_id": "E28",
+    "matched_eval_content": "አረማይክ አረማይክ ወይም አራማይስጥ፣ የሶርያ ቋንቋ ከሴማዊ ቋንቋዎች አንዱ ሲሆን በመካከለኛ ምሥራቅ ከጥንት ጀምሮ ታውቋል። መጀመርያ የአረማይክ ጽሑፎች ከ1000 ዓክልበ. ግድም በፊንቄ አልፋቤት ነበሩ፤ ይህም የአራም ሕዝብ የተናገሩት ጥ",
+    "similarity": 0.9104477611940298
+  },
+  {
+    "id": "p_1426",
+    "stage": "eval_overlap",
+    "record_id": "p_1426",
+    "task": "instruction_following",
+    "candidate_content": "ቅልልቦሽ ቅልልቦሽ የኢትዮጵያ ህጻናት በጠጠር የሚጫወቱት ሲሆን አጨዋወቱም አንዱዋን ጠጠር ወደአየር በማጉናት እሱዋ ባየር ላይ እያለች የተቻለን ያክል ጠጠር ከመሬት ማፈስ ነው። ባየር ላይ ያለችው ጠጠር ስትመለስ በተጫዋቹ እጅ \"መቀለብ\" ",
+    "matched_eval_id": "E26",
+    "matched_eval_content": "ቅልልቦሽ ቅልልቦሽ የኢትዮጵያ ህጻናት በጠጠር የሚጫወቱት ሲሆን አጨዋወቱም አንዱዋን ጠጠር ወደአየር በማጉናት እሱዋ ባየር ላይ እያለች የተቻለን ያክል ጠጠር ከመሬት ማፈስ ነው። ባየር ላይ ያለችው ጠጠር ስትመለስ በተጫዋቹ እጅ \"መቀለብ\" ",
+    "similarity": 0.9577464788732394
+  },
+  {
+    "id": "p_1425",
+    "stage": "eval_overlap",
+    "record_id": "p_1425",
+    "task": "instruction_following",
+    "candidate_content": "ሩሲያ ለአለም አቀፍ በይነመረብ አማራጭ የሚሆን አር ዩ ኔት የተሰኘ ኢንተርኔት በተሳካ ሁኔታ መሞከሯን የሀገሪቱ መንግስት አስታውቋል ፡፡ ይሁን እንጂ የተከናወነውን ሙከራ በተመለከተ ዝርዝር መረጃ አለመሰጠቱ በዘገባው ተመላክቷል። እንደ ሀ",
+    "matched_eval_id": "E22",
+    "matched_eval_content": "ሩሲያ ለአለም አቀፍ በይነመረብ አማራጭ የሚሆን አር ዩ ኔት  የተሰኘ ኢንተርኔት  በተሳካ ሁኔታ መሞከሯን  የሀገሪቱ  መንግስት አስታውቋል ፡፡ ይሁን እንጂ  የተከናወነውን ሙከራ በተመለከተ ዝርዝር መረጃ አለመሰጠቱ  በዘገባው ተመላክቷል።",
+    "similarity": 0.8742138364779874
+  },
+  {
+    "id": "p_1229",
+    "stage": "eval_overlap",
+    "record_id": "p_1229",
+    "task": "instruction_following",
+    "candidate_content": "ፌስቡክ የሰዎችን ምስል ለማጣራት እና ለመለየት የሚጠቀምበት መሳሪያ ጋር ተያይዞ ለረጅም ጊዜ የዘለቀውን የህግ ክርክር እልባት መስጠቱ ተገልጿል። ፌስቡክ በፈረንጆቹ 2010 የሰዎችን የፊት ገጽታ መለያዎች መሣሪያን መጠቀም በፈረንጆቹ 201",
+    "matched_eval_id": "E19",
+    "matched_eval_content": "ፌስቡክ የሰዎችን ምስል ለማጣራት እና ለመለየት የሚጠቀምበት መሳሪያ ጋር ተያይዞ ለረጅም ጊዜ የዘለቀውን የህግ ክርክር እልባት መስጠቱ ተገልጿል። ፌስቡክ በፈረንጆቹ 2010 የሰዎችን የፊት ገጽታ መለያዎች መሣሪያን መጠቀም በፈረንጆቹ 201",
+    "similarity": 0.9505494505494505
+  }
+]
