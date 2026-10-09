@@ -1,0 +1,10 @@
+{
+  "teacher": "google/gemma-4-E4B-it",
+  "throughput_tps": 6.265669489213734,
+  "peak_allocated_gb": 7.966844416,
+  "peak_reserved_gb": 8.16840704,
+  "passed": false,
+  "avg_geez_ratio": 0.8918160865495107,
+  "avg_latin_ratio": 1.0,
+  "truncation_count": 2
+}
